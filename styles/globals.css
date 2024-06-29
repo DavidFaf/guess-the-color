@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Chewy&display=swap");
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+/* @import './base.css'; */
+@import "tailwindcss/utilities";
+
+.main {
+    background-color: #E8E8E8;
+    min-height: 100vh;
+    font-family: "Chewy", system-ui;
+    position: relative;
+  }
