@@ -13,7 +13,7 @@ const colors = [
   "red",
   "blue",
   "green",
-  "yellow",
+  "gray",
   "orange",
   "purple",
   "pink",
